@@ -1,16 +1,20 @@
-### Hi there 👋
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@boumlikoumaima)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/oumaima-boumlik-732066159/?locale=en_US)  
+<br />
 
-<!--
-**Oumaima-Boumlik/Oumaima-Boumlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello World, I'm Oumaima ! 👋
+   💻   -Computer Science Engineering Student(M2).
+   
+   🐍   -Data Enthusiast.
+   
+ 👩🏻‍💻  -GLOBAL AMBASSADOR at WomenTech Network.
+ 
 
-Here are some ideas to get you started:
+### 📕 Latest Medium Article
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- BLOG-POST-LIST:START -->
+- [Empowered EDA in one line of code with Pandas Profiling.](https://medium.com/@boumlikoumaima/empowered-eda-in-one-line-of-code-with-pandas-profiling-f7c094f93e4d)
+<!-- BLOG-POST-LIST:END -->
+
+### Languages and Tools:
+
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
