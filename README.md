@@ -21,7 +21,7 @@ I Speak fluently French, English & Arabic, but also Python, JAVA. I'm familiar w
 ### 📕 Latest Medium Article
 
 <!-- BLOG-POST-LIST:START -->
-- [Empowered EDA in one line of code with Pandas Profiling.](https://medium.com/@boumlikoumaima/empowered-eda-in-one-line-of-code-with-pandas-profiling-f7c094f93e4d)
+- [Explore your Linkedin Network using Qlik!](https://medium.com/@boumlikoumaima/explore-your-linkedin-network-using-qlik-4b83ba961672)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools:
